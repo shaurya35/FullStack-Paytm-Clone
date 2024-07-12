@@ -1,0 +1,19 @@
+{
+  "name": "paytm",
+  "version": "1.0.0",
+  "description": "This projects aims to recreate the core functionalities of Paytm. By building this clone, someone can get hands-on experience on how the industry grade projects are being made. It will include Frontend, Backend, Databases, API Integration. Make sure to star the repo if you find it interesting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaurya35/FullStack-Paytm-Clone.git"
+  },
+  "author": "shaurya35",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaurya35/FullStack-Paytm-Clone/issues"
+  },
+  "homepage": "https://github.com/shaurya35/FullStack-Paytm-Clone#readme"
+}
