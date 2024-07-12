@@ -1,6 +1,6 @@
-# FullStack Paytm Clone
+# SereneCare
 
-This projects aims to recreate the core functionalities of Paytm. By building this clone, someone can get hands-on experience on how the industry grade projects are being made. It will include Frontend, Backend, Databases, API Integration. Make sure to star the repo if you find it interesting.
+Welcome to the SereneCare GitHub repository! This repository hosts the source code for Medisync, an innovative and comprehensive healthcare platform designed to streamline patient care, enhance communication between healthcare providers, and improve overall health outcomes.
 
 ## Table of Contents
 
@@ -34,8 +34,8 @@ This projects aims to recreate the core functionalities of Paytm. By building th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shaurya35/FullStack-Paytm-Clone
-cd FullStack-Paytm-Clone
+git clone https://github.com/shaurya35/SereneCare
+cd SereneCare
 ```
 
 2. Install the dependencies:
